@@ -1,0 +1,17 @@
+~/.vscode/extensions/Inquirer.js
+>node packages/input/index.js
+?Title of project
+?What is the description 
+?How do you install your app
+?Instructions to be followed
+?Credits
+?How do you use your app
+?License used
+?Any badges
+?GitHub username
+?Linkedin Profile Link
+?E-mail
+?Any contributions
+?How many tests
+?Any urls or screenshots
+~/.vscode/extensions/Inquirer.js
